@@ -6,5 +6,6 @@ I enjoy playing the guitar and video games, and play sports.
 
 
 Skills:
-![image](https://user-images.githubusercontent.com/112025388/211677525-304b8ce5-83b5-4e09-b2da-4e3de28cd5d9.png)
+![image](https://user-images.githubusercontent.com/112025388/211677725-8426deeb-95d3-4520-8838-f923d0635d9f.png)
 ![image](https://user-images.githubusercontent.com/112025388/211677588-4a09d014-9697-4107-968e-49bdbe490eff.png)
+
