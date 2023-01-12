@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 Hello, I am Kian. I am a student pursuing Computer Science at the University of Texas at Dallas. <br>My primary focus is on learning coding languages and software skills. I love technology and I follow them. <br>Also, I am minoring in Film Studies. I enjoy playing the guitar and video games and playing sports.
+Hi there 👋, I am Kian. I am a student pursuing Computer Science at the University of Texas at Dallas. <br>My primary focus is on learning coding languages and software skills. I love technology and I follow them. <br>Also, I am minoring in Film Studies. I enjoy playing the guitar and video games and playing sports.
 
 
 ## 🌐 Socials:
