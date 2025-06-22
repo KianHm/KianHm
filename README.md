@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi there 👋, I am Kian. I am a student pursuing Computer Science at the University of Texas at Dallas. <br>My primary focus is on learning coding languages and software skills. I love technology and I follow them. <br>Also, I am minoring in Film Studies. I enjoy playing the guitar and video games and playing sports.
+ Enthusiastic and detail-oriented Computer Science graduate with hands-on
+ experience as a Data Analyst Intern, skilled in SQL, Python, SSIS, and data
+ visualization tools like Tableau and Snowflake. Strong foundation in software
+ development, machine learning, and full-stack projects. Eager to contribute to
+ innovative, data-driven environments in either analytics or development-focused
+ roles.
 
 
 ## 🌐 Socials:
